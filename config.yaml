@@ -17,7 +17,11 @@ title: 'Research Community Outreach with Open Science Team Agreements' # FIXME
 created: ~ # FIXME
 
 # Comma-separated list of keywords for the lesson
+<<<<<<< HEAD
 keywords: 'open science, data, research' # FIXME
+=======
+keywords: 'software, data, lesson, The Carpentries, open science' # FIXME
+>>>>>>> dec8cf2 (added keyword)
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
