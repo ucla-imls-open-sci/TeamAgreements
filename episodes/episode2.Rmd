@@ -1,5 +1,5 @@
 ---
-title: 'next-episode'
+title: 'Working with Open Science Team Agreements'
 teaching: 10
 exercises: 2
 ---
@@ -12,8 +12,10 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Modify the open science team agreements for an example research group
+  - How do you edit the doc?
+  - How do you use a team agreement with an example domain?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
