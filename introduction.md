@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Introduction to Open Science Team Agreements"
 teaching: 10
 exercises: 2
 ---
@@ -12,8 +12,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Summarize three benefits of an open science team agreement
+- other objective
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
