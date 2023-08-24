@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'Research Community Outreach with Open Science Team Agreements'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created:
+created: 
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries, open science, research, team agreements'
@@ -58,19 +58,20 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes:
+episodes: 
 - introduction.md
 - episode2.md
 - episode3.md
+- episode4.md
 
 # Information for Learners
-learners:
+learners: 
 
 # Information for Instructors
-instructors:
+instructors: 
 
 # Learner Profiles
-profiles:
+profiles: 
 
 # Customisation ---------------------------------------------
 #
