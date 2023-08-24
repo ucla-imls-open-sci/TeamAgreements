@@ -10,30 +10,9 @@ editor_options:
 
 By the end of this lesson, learners should be able to:
 
-1- Summarize three benefits of an open science team agreement
+- Summarize three benefits of an open science team agreement
+- Modify the open science team agreements for an example research group 
+- Identify a local research team and reframe the open science team agreement template with them in mind
+- Design an outreach plan (including an outreach email template, lesson outline, slides, assessment) for a specific research audience using the open science team agreements
 
--   What is it?
 
--   What is it for?
-
-2 - Adapt the open science team agreements to a specific research
-audience
-
--   How to actually edit/use
-
--   Applying to a particular group (with a persona group as an example)
-
-3- Design an outreach plan for a specific research audience using the
-open science team agreements
-
--   Identify stakeholders
-
--   Email template
-
--   30 min workshop
-
--   lesson plan
-
--   Slides
-
--   Assessment Following up on the agreements created?
