@@ -6,14 +6,16 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What are the team agreements?
+- How can librarians use them?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Summarize three benefits of an open science team agreement
-- other objective
+- Discuss the role and the benefits of lab manuals and agreements
+- Describe how Team Agreements can be used to explain open science concepts
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
