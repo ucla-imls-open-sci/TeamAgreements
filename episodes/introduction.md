@@ -65,7 +65,9 @@ Which of the following statements about team agreements are true?
 :::::::::::::::::::::::::::::::::
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+## Discussion
+
+What is one new idea you learned about team agreements?
 
 :::::::::::::::::::::::: solution 
 
