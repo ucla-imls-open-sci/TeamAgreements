@@ -46,20 +46,20 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Challenge 1: Team agreements
 
-What is the output of this command?
+Which of the following statements about team agreements are true?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+1. Team agreements require a team of 10 or more
+2. Team agreements are updated once and then archived
+3. Team agreements are living documents
 
 :::::::::::::::::::::::: solution 
 
 ## Output
  
 ```output
-[1] "This new lesson looks good"
+3. Team agreements are living documents
 ```
 
 :::::::::::::::::::::::::::::::::
