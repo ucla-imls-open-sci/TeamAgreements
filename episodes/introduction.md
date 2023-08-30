@@ -61,13 +61,10 @@ Which of the following statements about team agreements are true?
 ```output
 3. Team agreements are living documents
 ```
+:::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::
 
-
-## Discussion
-
-What is one new idea you learned about team agreements?
+## Challenge 2: how do you nest solutions within challenge blocks?
 
 :::::::::::::::::::::::: solution 
 
@@ -75,6 +72,10 @@ You can add a line with at least three colons and a `solution` tag.
 
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: discussion
+What is one new concept you learned about team agreements?
+::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
 
