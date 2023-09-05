@@ -10,6 +10,6 @@
 "episodes/episode4.md" "334d5783ca04b0d8803f0c50869c5e2a" "site/built/episode4.md" "2023-09-05"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2023-08-24"
 "learners/reference.md" "1c7cc4e229304d9806a13f69ca1b8ba4" "site/built/reference.md" "2023-08-24"
-"learners/setup.md" "61568b36c8b96363218c9736f6aee03a" "site/built/setup.md" "2023-08-24"
+"learners/setup.md" "51eb14e19e88b6a5c8efc33a7887fd68" "site/built/setup.md" "2023-09-05"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2023-08-24"
 "renv/profiles/lesson-requirements/renv.lock" NA "site/built/renv.lock" "2023-09-05"
