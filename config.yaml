@@ -14,10 +14,10 @@ carpentry: 'incubator'
 title: 'Research Community Outreach with Open Science Team Agreements'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: 2023-09-05
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries, open science, research, team agreements'
+keywords: 'open science, research, team agreements'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -27,13 +27,13 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md'
+source: 'https://github.com/ucla-imls-open-sci/TeamAgreements'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'ariel.deardorff@ucsf.edu, sam.wilairat@stanford.edu, steplitz@berkeley.edu'
 
 # Navigation ------------------------------------------------
 #
@@ -58,20 +58,20 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.md
 - episode2.md
 - episode3.md
 - episode4.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
