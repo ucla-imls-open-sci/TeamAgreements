@@ -6,14 +6,15 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- How will you use the team agreements for outreach with your chosen audience?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Draft an outreach email describing your activity customized for your audience
+- Modify? the lesson outline and slides for your audience
+- Create an assessment plan to measure your impact
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

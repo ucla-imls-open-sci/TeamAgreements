@@ -6,15 +6,16 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- How do you access and edit the team agreements?
+- How do you use it for an example domain?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Modify the open science team agreements for an example research group
-  - How do you edit the doc?
-  - How do you use a team agreement with an example domain?
+- Download the Team Agreements from Zenodo
+- Locate an appropriate subject data repository for the research group
+- Edit the Team Agreements
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

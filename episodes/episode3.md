@@ -13,8 +13,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Summarize three benefits of an open science team agreement
-- other objective
+- Create a list of teams or departments that you work with
+- Edit the Team Agreements with resources relevant to them
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
