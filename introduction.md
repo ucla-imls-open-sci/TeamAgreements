@@ -19,23 +19,34 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Introduction: What is open science?
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+**According to the UNESCO Recommendations on Open Science,** **Open science** combines various movements and practices aiming 
+- to make multilingual scientific knowledge openly **available, accessible and reusable** for everyone,
+- to increase scientific **collaborations** and sharing of information for the benefits of science and society, 
+- and to open the **processes** of scientific knowledge **creation, evaluation and communication** to societal actors beyond the traditional scientific community. 
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+- UNESCO Recommendation on Open Science - https://unesdoc.unesco.org/ark:/48223/pf0000379949
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+**In practice,** open science requires cultural change at the organizational level, within lab groups, and for individuals. 
+
+Open science offers opportunities for librarians, research data managers and [other roles] to engage in outreach and instructional activities to assist with this transition. 
+
+## Foundation: Lab Manuals
+
+Many researchers use lab manuals as documents that outline practices, techniques and institutional knowledge for students and researchers in a laboratory setting. They also act as a compact or agreement that makes group norms and expectations transparent.
+
+Examine the images below to get a sense of what is included in a lab manual.
+
+[insert figure]
+
+For more lab manual examples:
+
+- Fraser Lab Compact and Philosophy https://fraserlab.com/philosophy/
+- Fay Lab Manual https://thefaylab.github.io/lab-manual/
+- Benjamin-Chung Lab Manual - https://jadebc.github.io/lab-manual/
+- CCT-Data Science Team Protocols  - https://osf.io/tzmhp/wiki/home/
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -46,7 +57,48 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Team agreements
+## Challenge 1: Lab Manuals
+
+What are 3 topics that a researcher team might include in their lab manual?
+
+:::::::::::::::::::::::: solution 
+
+## Answer
+ 
+```output
+Possible Answers include:
+- Best practices for presentations
+- Conflict of interest statement
+- Code of conduct 
+- Communication tools
+- Authorship practices
+- File management practices
+- Data storage recommendations
+- Lab values
+- University policies
+
+```
+:::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
+
+## Open Science Team Agreement
+
+Inspired by lab manuals, we created this open science team agreement to codify a commitment to certain research practices. Intended for collaborations of any size, the Open Science team agreement allows group members to start conversations, learn about open science and commit to new open practices. Groups can return to and revise the agreement at regular intervals as needed. We recommend creating the team agreement for a new project or team.
+
+[Figure: Team Agreement Template screenshot]
+
+The Open Science Team Agreement template includes brief explanations of key open science topics, practices and products that group members might like to discuss, learn about and adopt including:
+
+- Authorship and collaboration - Persistent Identifiers, Author order, and Inclusive Science 
+- Articles and research materials - Preregistration, Methods and Protocols, Preprints, Open Access, Theses and Dissertations, and Presentations
+- Data and code - Documentation, Data, Software and Code
+- Communication and Impact - Research Profiles, Social Media, Community Participation, Keeping Accountable 
+Within those categories the template offers suggestions for products and services that address specific workflow needs.
+
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+## Challenge 2: Team agreements
 
 Which of the following statements about team agreements are true?
 
@@ -62,50 +114,22 @@ Which of the following statements about team agreements are true?
 3. Team agreements are living documents
 ```
 :::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
 
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::: discussion
-What is one new concept you learned about team agreements?
+How does a Lab Manual and an Open Science Team Agreement differ?
 ::::::::::::::::::::::::::::::::::::::::
 
-## Figures
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-You can use standard markdown for static figures with the following syntax:
+Possible discussion prompts:
+A Lab Manual is a broader, foundational document that also covers university policy, employment details, lab safety, equipment access
+An Open Science Team Agreement might live within a Lab Manual
+An Open Science Team Agreement is specific to open science practices and workflows
+An Open Science Team Agreement might be adopted by a group of collaborators from different labs or different institutions.
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-::::::::::::::::::::::::::::::::::::: callout
-
-Callout sections can highlight information.
-
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
