@@ -22,11 +22,12 @@ exercises: 2
 ## Introduction: What is open science?
 
 **According to the UNESCO Recommendations on Open Science,** **Open science** combines various movements and practices aiming 
+
 - to make multilingual scientific knowledge openly **available, accessible and reusable** for everyone,
 - to increase scientific **collaborations** and sharing of information for the benefits of science and society, 
 - and to open the **processes** of scientific knowledge **creation, evaluation and communication** to societal actors beyond the traditional scientific community. 
 
-- UNESCO Recommendation on Open Science - https://unesdoc.unesco.org/ark:/48223/pf0000379949
+*UNESCO Recommendation on Open Science* - https://unesdoc.unesco.org/ark:/48223/pf0000379949
 
 **In practice,** open science requires cultural change at the organizational level, within lab groups, and for individuals. 
 
@@ -59,7 +60,7 @@ associated with the lessons. They appear in the "Instructor View"
 
 ## Challenge 1: Lab Manuals
 
-What are 3 topics that a researcher team might include in their lab manual?
+What are 3 topics that a researcher team might include in their lab manual?  
 
 :::::::::::::::::::::::: solution 
 
@@ -81,7 +82,7 @@ Possible Answers include:
 :::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::
 
-## Open Science Team Agreement
+## Open Science Team Agreements
 
 Inspired by lab manuals, we created this open science team agreement to codify a commitment to certain research practices. Intended for collaborations of any size, the Open Science team agreement allows group members to start conversations, learn about open science and commit to new open practices. Groups can return to and revise the agreement at regular intervals as needed. We recommend creating the team agreement for a new project or team.
 
@@ -92,9 +93,9 @@ The Open Science Team Agreement template includes brief explanations of key open
 - Authorship and collaboration - Persistent Identifiers, Author order, and Inclusive Science 
 - Articles and research materials - Preregistration, Methods and Protocols, Preprints, Open Access, Theses and Dissertations, and Presentations
 - Data and code - Documentation, Data, Software and Code
-- Communication and Impact - Research Profiles, Social Media, Community Participation, Keeping Accountable 
-Within those categories the template offers suggestions for products and services that address specific workflow needs.
+- Communication and Impact - Research Profiles, Social Media, Community Participation, Keeping Accountable. 
 
+Within those categories the template offers suggestions for products and services that address specific workflow needs.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -118,7 +119,9 @@ Which of the following statements about team agreements are true?
 
 
 ::::::::::::::::::::::::::::::::::::::: discussion
+
 How does a Lab Manual and an Open Science Team Agreement differ?
+
 ::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
