@@ -6,47 +6,53 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Who do you want to work with?
-- How will you use the team agreements for outreach with your chosen audience?
+- What research audience do you want to work with?
+- How will you use the team agreement for outreach with your chosen audience?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Create a list of teams or departments that you work with and potential 
-- Draft an outreach email describing your activity customized for your audience
-- Modify the lesson outline and slides for your audience
+- Create a list of potential outreach audiences 
+- Draft an outreach email to your chosen audience
+- Modify a lesson template for your audience
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Identify your Local Audience
 
-Now that you have some familiarity with the Open Science Team Agreements let’s think about how you can use them with your research audience. First let’s brainstorm some potential audiences. 
+Now that you have some familiarity with the Open Science Team Agreement let’s think about how you can use them with your research audience. First let’s brainstorm some potential audiences. This outreach can be at the level of a department, lab, or group.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Find your Champions
-
+## Find your Champions
 
 Departments: 
 What departments do you cover? 
 Take a look at their departmental website and identify one or two faculty members 
+
 - Can you tell how open their current research is?
 - Do they have their own profile page, website, or GitHub repository that you can consult? 
 - Consult OSF institutions, preprints or registrations to search for affiliated contributors.
 - How and when does this department meet? (In person, online, etc)
 
 Lab groups: 
+
 - Follow department event and seminar topics
 - Search campus data and publication repositories, profile systems for possible champions/interested groups
 
 Open science groups:
 Are there any working groups, journal clubs or other community groups that focus on open science?
 Examples:
-- Reproducibilitea [link]
+
+- [Reproducibilitea](https://reproducibilitea.org/)
 - Open Science Communities [link to Utrecht example]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Plan your Outreach
+
+Now that you have selected a research audience it is time to customize your outreach materials. First, let's start with a brief email to your chosen department or team.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -69,12 +75,22 @@ Thanks,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+Once you have a sense of how much time you will get with your audience, it is time to customize your outreach materials. 
+
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Modify a Presentation/Handout
+## Modify a Presentation/Handout (20 min)
 
-[Link to slides]
+Take a look at the Open Science Team Agreement outreach slide deck and think about how to customize this for your audience and timing. Spend 20 minutes editing the deck for your audience
 
+Possible edits include:
+
+- Adding your library logo
+- Adding info about your library services
+- Adding examples relevant to your audiences domain
+- Cutting or adding content
+
+[enter link to slides]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
