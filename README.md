@@ -1,4 +1,4 @@
-# Research Community Outreach with Open Science Team Agreements
+# Research Community Outreach with Open Science Team Agreement
 
 # About this Lesson
 
