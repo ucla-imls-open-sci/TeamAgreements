@@ -1,5 +1,5 @@
 ---
-title: 'Working with Open Science Team Agreements'
+title: 'Working with Open Science Team Agreement'
 teaching: 10
 exercises: 2
 ---
@@ -17,98 +17,57 @@ exercises: 2
 - Locate an appropriate subject data repository for the research group
 - Edit the Team Agreements
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Accessing the Open Science Team Agreement
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
-
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
-
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+The Open Science Team Agreements are available from Zenodo at https://zenodo.org/record/7154100. On this page you will find versions for Word, Google Doc, Overleaf, and plain text. 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Challenge 1: Exploring the Agreement - Group Discussion or Think-Pair-Share
 
-What is the output of this command?
+Go to Zenodo and download a copy of the Open Science Team Agreement on the platform of your choice. Skim the content of the agreements. Which of these are topics that you regularly discuss with researchers and which ones are new to you? Jot down a couple of notes and we will discuss as a group.
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+:::::::::::::::::::::::::::::::::::::::
+
+## Customizing the Team Agreement
+Let’s practice customizing the Open Science Team agreements for an example team.
+
+### Case Study - Dr. Sheri Lee (Fictional) 
+
+Sheri Lee is a clinical researcher at UC San Francisco working on the link between lung cancer and pollution. She collects clinical data from the EHR and also gathers data via patient questionnaires. Her team consists of herself, one clinical research coordinator, and two graduate students and she is committed to giving credit to their work. She tries to share her preprints on MedRxiv, and her data in the Vivli clinical repository. She doesn’t currently share her postprints, or routinely share slides or her code.
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+## Challenge 2: Customizing the Agreement for for Dr. Lee
+
+You are meeting with Dr. Lee this week to talk about Open Science practices. Make two edits to the Open Science Team Agreement based on what you currently know about Dr. Lee’s workflow to customize it for this team. What is one suggestion you have for a new practice they might try?
+
+Share the edits you made with the class and provide your rationale.
 
 :::::::::::::::::::::::: solution 
 
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
+Possible edits to the Open Science Team Agreement based on current practices include: 
 
-:::::::::::::::::::::::::::::::::
+- Adding MedRxiv to the preprints section
+- Familiarizing team members with CREDIT system to formalize author contributions
+-  Designating Vivli as their data repository 
 
+Ideas for edits for new practices
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+ - Code in Zenodo
+ - Postprints in institutional repository
+ - Uploads presentation slides to the institutional repository
 
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
 
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Figures
-
-You can include figures generated from R Markdown:
-
-```{r pyramid, fig.alt = "pie chart illusion of a pyramid", fig.cap = "Sun arise each and every morning"}
-pie(
-  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
-  init.angle = 315, 
-  col = c("deepskyblue", "yellow", "yellow3"), 
-  border = FALSE
-)
-```
-Or you can use pandoc markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- [add here]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -1,20 +1,20 @@
 ---
-title: "Introduction to Open Science Team Agreements"
+title: "Introduction to Open Science Team Agreement"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the team agreements?
-- How can librarians use them?
+- What is the Open Science Team Agreement?
+- How can librarians use it?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Discuss the role and the benefits of lab manuals and agreements
-- Describe how Team Agreements can be used to explain open science concepts
+- Describe how the Oepn Science Team Agreement can be used to explain open science concepts
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -82,18 +82,20 @@ Possible Answers include:
 :::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::
 
-## Open Science Team Agreements
+## Open Science Team Agreement
 
-Inspired by lab manuals, we created this open science team agreement to codify a commitment to certain research practices. Intended for collaborations of any size, the Open Science team agreement allows group members to start conversations, learn about open science and commit to new open practices. Groups can return to and revise the agreement at regular intervals as needed. We recommend creating the team agreement for a new project or team.
+Inspired by lab manuals, the [Bay Area Open Science group](https://bayareaopensciencegroup.github.io/) created this open science team agreement to codify a commitment to certain research practices. Intended for collaborations of any size, the Open Science team agreement allows group members to start conversations, learn about open science and commit to new open practices. Groups can return to and revise the agreement at regular intervals as needed. We recommend creating the team agreement for a new project or team.
 
 [Figure: Team Agreement Template screenshot]
 
 The Open Science Team Agreement template includes brief explanations of key open science topics, practices and products that group members might like to discuss, learn about and adopt including:
 
-- Authorship and collaboration - Persistent Identifiers, Author order, and Inclusive Science 
-- Articles and research materials - Preregistration, Methods and Protocols, Preprints, Open Access, Theses and Dissertations, and Presentations
-- Data and code - Documentation, Data, Software and Code
-- Communication and Impact - Research Profiles, Social Media, Community Participation, Keeping Accountable. 
+| Topic| Sub-topic|
+|----|----|
+|Authorship and collaboration | Persistent Identifiers, Author order, and Inclusive Science |
+|Articles and research materials | Preregistration, Methods and Protocols, Preprints, Open Access, Theses and Dissertations, and Presentations |
+|Data and code | Documentation, Data, Software and Code |
+|Communication and Impact | Copyright, Research Profiles, Social Media |
 
 Within those categories the template offers suggestions for products and services that address specific workflow needs.
 
@@ -136,10 +138,7 @@ An Open Science Team Agreement might be adopted by a group of collaborators from
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- [enter here]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
