@@ -1,7 +1,7 @@
 ---
 title: 'Working with Open Science Team Agreement'
-teaching: 10
-exercises: 2
+teaching: 5
+exercises: 15
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 

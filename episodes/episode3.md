@@ -1,7 +1,7 @@
 ---
 title: 'Designing your Outreach Plan'
-teaching: 10
-exercises: 2
+teaching: 5
+exercises: 30
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
