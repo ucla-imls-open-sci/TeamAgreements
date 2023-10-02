@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the Open Science Team Agreement"
 teaching: 10
-exercises: 2
+exercises: 15
 editor_options: 
   markdown: 
     wrap: 72
