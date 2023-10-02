@@ -26,7 +26,9 @@ The Open Science Team Agreements are available from Zenodo at https://zenodo.org
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Exploring the Agreement - (Group Discussion or Think-Pair-Share)
+## Exploring the Agreement - 
+
+Group Discussion or Think-Pair-Share
 
 Go to Zenodo and download a copy of the [Open Science Team Agreement](https://zenodo.org/record/7154100) on the platform of your choice. 
 
@@ -37,7 +39,7 @@ Skim the content of the agreements. Which of these are topics that you regularly
 ## Customizing the Team Agreement
 Let’s practice customizing the Open Science Team agreements for an example team.
 
-*Case Study - Dr. Sheri Lee (Fictional)* 
+**Case Study - Dr. Sheri Lee (Fictional)** 
 
 Dr. Sheri Lee is a clinical researcher at UC San Francisco working on the link between lung cancer and pollution. She collects clinical data from the Electronic Health Record (EHR) and also gathers data via patient questionnaires. Her team consists of herself, one clinical research coordinator, and two graduate students and she is committed to giving credit to their work. She tries to share her preprints on MedRxiv, and her data in the Vivli clinical repository. She doesn’t currently share her postprints, or routinely share slides or her code.
 
@@ -72,7 +74,8 @@ Ideas for edits for new practices
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- [add here]
+- You access and edit the Team Agreement by visiting the Zenodo page, where you can find editable versions for Word, Google Doc, Overleaf, and plain text. 
+- You can modify the highlighted yellow sections of the Team Agreement to suit your needs and delete any sections that are irrelevant to your domain. For example, you could list a subject specific repository where research outputs will be stored. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
