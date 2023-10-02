@@ -21,11 +21,13 @@ editor_options:
 ## Introduction: What is open science?
 
 **Open science** is the principle and practice of making research
-products and processes available to all, while - respecting diverse
-cultures, - maintaining security and privacy, and - fostering
-collaborations, reproducibility, and equity. Source: [NASA Transform to
-Open
-Science](https://nasa.github.io/Transform-to-Open-Science/what-is-open-science/)
+products and processes available to all, while  
+
+-  respecting diverse cultures, 
+-  maintaining security and privacy, and 
+-  fostering collaborations, reproducibility, and equity. 
+
+Source: [NASA Transform to Open Science](https://nasa.github.io/Transform-to-Open-Science/what-is-open-science/)
 
 **In practice,** open science requires cultural change at the
 organizational level, within lab groups, and for individuals.
@@ -86,7 +88,7 @@ open science and commit to new open practices. Groups can return to and
 revise the agreement at regular intervals as needed. We recommend
 creating the team agreement for a new project or team.
 
-![Alt text](fig/team_agreement_page_1.png)
+![A screenshot of the open science team agreement template that can be accesses in a .docx form via Zenodo](fig/team_agreement_page_1.png){width=300px}
 
 The Open Science Team Agreement template includes brief explanations of
 key open science topics, practices and products that group members might
@@ -119,6 +121,7 @@ Which of the following statements about team agreements are true?
 :::
 
 ::: discussion
+
 How does a Lab Manual and an Open Science Team Agreement differ?
 
 ::: solution
