@@ -120,17 +120,21 @@ Which of the following statements about team agreements are true?
 :::
 :::
 
-::: discussion
+:::::: challenge
+
+## Discussion
 
 How does a Lab Manual and an Open Science Team Agreement differ?
 
-::: solution
-## Possible discussion prompts: 
+::: hint
+## Hints
+
 - A Lab Manual is a broader, foundational document that also covers university policy, employment details, lab safety, equipment access 
 - An Open Science Team Agreement might live within a Lab Manual An Open Science Team Agreement is specific to open science practices and workflows 
 - An Open Science Team Agreement might be adopted by a group of collaborators from different labs or different institutions.
+
 :::
-:::
+::::::
 
 ::: keypoints
 - The Open Science Team Agreement gives researchers and other stakeholders the tools they need to understand and advocate for open science practices within their laboratory, department or the broader community.
