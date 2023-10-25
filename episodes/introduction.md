@@ -55,7 +55,7 @@ For more lab manual examples:
 -   [CCT-Data Science Team Protocols](https://osf.io/tzmhp/wiki/home/)
 
 ::: challenge
-## Challenge 1: Lab Manuals
+## Challenge 1: Lab Manuals (5 min)
 
 What are 3 topics that a researcher team might include in their lab
 manual?
@@ -105,7 +105,7 @@ Within those categories the template offers suggestions for products and
 services that address specific workflow needs.
 
 ::: challenge
-## Challenge 2: Team agreements
+## Challenge 2: Team agreements (5 min)
 
 Which of the following statements about team agreements are true?
 
@@ -122,7 +122,7 @@ Which of the following statements about team agreements are true?
 
 :::::: challenge
 
-## Discussion
+## Discussion (10 min)
 
 How does a Lab Manual and an Open Science Team Agreement differ?
 

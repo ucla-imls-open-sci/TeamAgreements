@@ -26,28 +26,30 @@ The Open Science Team Agreements are available from Zenodo at https://zenodo.org
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Exploring the Agreement - 
+## Exploring the Agreement (10 min) 
 
 Group Discussion or Think-Pair-Share
 
 Go to Zenodo and download a copy of the [Open Science Team Agreement](https://zenodo.org/record/7154100) on the platform of your choice. 
 
-Skim the content of the agreements. Which of these are topics that you regularly discuss with researchers and which ones are new to you? Jot down a couple of notes and we will discuss as a group.
+Skim the content of the agreements. Which of these are topics that you regularly discuss with researchers and which ones are new to you? Which of these areas are more familiar to researchers you work with?
+
+Jot down a couple of notes and we will discuss as a group.
 
 :::::::::::::::::::::::::::::::::::::::
 
 ## Customizing the Team Agreement
-Let’s practice customizing the Open Science Team agreements for an example team.
+It can be helpful to think how a particular research team might customize the agreements for their workflows. Let’s practice customizing the Open Science Team agreements for an example team.
 
 **Case Study - Dr. Sheri Lee (Fictional)** 
 
-Dr. Sheri Lee is a clinical researcher at UC San Francisco working on the link between lung cancer and pollution. She collects clinical data from the Electronic Health Record (EHR) and also gathers data via patient questionnaires. Her team consists of herself, one clinical research coordinator, and two graduate students and she is committed to giving credit to their work. She tries to share her preprints on MedRxiv, and her data in the Vivli clinical repository. She doesn’t currently share her postprints, or routinely share slides or her code.
+Dr. Sheri Lee is a clinical researcher at UC San Francisco working on the link between lung cancer and pollution. She collects clinical data from the Electronic Health Record (EHR) and also gathers data via patient questionnaires. Her team consists of herself, one clinical research coordinator, and two graduate students, and she is committed to giving credit to their work. She tries to share her preprints on MedRxiv, and her data in the Vivli clinical repository. She doesn’t currently share her postprints, or routinely share slides or her analysis code.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Customizing the Agreement for for Dr. Lee
+## Customizing the Agreement for Dr. Lee (10 min)
 
-You are meeting with Dr. Lee this week to talk about Open Science practices. Make two edits to the Open Science Team Agreement based on what you currently know about Dr. Lee’s workflow to customize it for this team. What is one suggestion you have for a new practice they might try?
+You are meeting with Dr. Lee this week to talk about Open Science practices. Make two edits to the Open Science Team Agreement based on what you currently know about Dr. Lee’s workflow to customize it for this team. In addition, what is one suggestion you have for a new practice they might try?
 
 Share the edits you made with the class and provide your rationale.
 
