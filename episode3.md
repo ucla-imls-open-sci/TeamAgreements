@@ -19,7 +19,7 @@ exercises: 30
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Identify your Local Audience
+## Identify your Local Audience (5 min)
 
 Now that you have some familiarity with the Open Science Team Agreement let’s think about how you can use them with your research audience. First let’s brainstorm some potential audiences. This outreach can be at the level of a department, lab, or group.
 
@@ -62,7 +62,7 @@ Now that you have selected a research audience it is time to customize your outr
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Email Outreach
+## Email Outreach (10 min)
 
 What messaging will resonate with your audience? Edit the following email template for your selected audience.
 
