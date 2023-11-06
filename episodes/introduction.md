@@ -1,6 +1,6 @@
 ---
 title: "Introduction to the Open Science Team Agreement"
-teaching: 10
+teaching: 5
 exercises: 15
 editor_options: 
   markdown: 
@@ -53,6 +53,13 @@ For more lab manual examples:
 -   [Fay Lab Manual](https://thefaylab.github.io/lab-manual/)
 -   [Benjamin-Chung Lab Manual](https://jadebc.github.io/lab-manual/)
 -   [CCT-Data Science Team Protocols](https://osf.io/tzmhp/wiki/home/)
+
+::: instructor
+
+We recommend putting the links in the chat for learners to review.
+
+:::
+
 
 ::: challenge
 ## Challenge 1: Lab Manuals (5 min)
@@ -122,7 +129,7 @@ Which of the following statements about team agreements are true?
 
 :::::: challenge
 
-## Discussion (10 min)
+## Optional Discussion (10 min)
 
 How does a Lab Manual and an Open Science Team Agreement differ?
 
@@ -138,5 +145,6 @@ How does a Lab Manual and an Open Science Team Agreement differ?
 
 ::: keypoints
 - The Open Science Team Agreement gives researchers and other stakeholders the tools they need to understand and advocate for open science practices within their laboratory, department or the broader community.
+- Open Science Team Agreement are living, editable documents.
 - Librarians can use the Open Science Team Agreement to start conversations with their research groups and departments.
 :::

@@ -21,7 +21,7 @@ exercises: 15
 
 ## Accessing the Open Science Team Agreement
 
-The Open Science Team Agreements are available from Zenodo at https://zenodo.org/record/7154100. On this page you will find versions for Word, Google Doc, Overleaf, and plain text. 
+The Open Science Team Agreements are available from Zenodo at https://zenodo.org/record/7154100. On this page you will find versions for Word, Google Doc, Overleaf, and plain text. We recommend that researchers save a project-specific copy to modify - don't forget to give it a good file name! 
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
@@ -43,7 +43,7 @@ It can be helpful to think how a particular research team might customize the ag
 
 **Case Study - Dr. Sheri Lee (Fictional)** 
 
-Dr. Sheri Lee is a clinical researcher at UC San Francisco working on the link between lung cancer and pollution. She collects clinical data from the Electronic Health Record (EHR) and also gathers data via patient questionnaires. Her team consists of herself, one clinical research coordinator, and two graduate students, and she is committed to giving credit to their work. She tries to share her preprints on MedRxiv, and her data in the Vivli clinical repository. She doesn’t currently share her postprints, or routinely share slides or her analysis code.
+Dr. Sheri Lee is a clinical researcher at UC San Francisco working on the link between lung cancer and pollution. She collects clinical data from the Electronic Health Record (EHR) and also gathers data via patient questionnaires. Her team consists of herself, one clinical research coordinator, and two graduate students, and she is committed to giving credit to their work. She shares her preprints on MedRxiv, and her data in the Vivli clinical repository. She doesn’t currently share her postprints, or routinely share slides or her analysis code.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -63,7 +63,7 @@ Possible edits to the Open Science Team Agreement based on current practices inc
 - Familiarizing team members with CREDIT system to formalize author contributions
 - Designating Vivli as their data repository 
 
-Ideas for edits for new practices
+Ideas for edits for new practices to introduce
 
  - Code in Zenodo
  - Postprints in her institutional repository
