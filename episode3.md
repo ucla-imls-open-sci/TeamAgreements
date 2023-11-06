@@ -14,8 +14,8 @@ exercises: 30
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Create a list of potential outreach audiences 
-- Draft an outreach email to your chosen audience
-- Modify a lesson template for your audience
+- Exchange effective outreach practices with peers
+- Familiarize yourself with outreach materials provided and plan next steps
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -51,20 +51,31 @@ Examples:
 
 ## Find your Champion (5 min)
 
-Following the prompts above, reflect on your network and identify a research audience you want to target. 
-
+Following the prompts above, reflect on your network and identify a research audience you want to target. Share one idea with the group.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Outreach Strategies
+Recognizing that outreach is a difficult aspect of librarianship, let's discuss concrete strategies you can use for more successful outreach with research teams. 
+
+::: challenge
+
+## Discussion: Outreach Wins and Woes (10 min)
+What has and hasn't worked when connecting with your audience in the past?
+
+:::
+
 ## Plan your Outreach
 
-Now that you have selected a research audience it is time to customize your outreach materials. First, let's start with a brief email to your chosen department or team.
+Let's wrap up by putting it all together into a plan!
 
-::::::::::::::::::::::::::::::::::::: challenge 
+### Outreach Resources
 
-## Email Outreach (10 min)
+::::::::::::::::::::::::::::::::::::: callout
 
-What messaging will resonate with your audience? Edit the following email template for your selected audience.
+## Email Outreach Template
+
+What messaging will resonate with your audience? Consider how you might adapt the following email template for your selected audience.
 
 Hi [Faculty Meeting Organizer's Name],
 
@@ -81,13 +92,9 @@ Thanks,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-Once you have a sense of how much time you will get with your audience, it is time to customize your outreach materials. 
+### Slide Deck and Handout
 
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Modify a Presentation or Handout (20 min)
-
-Take a look at the Open Science Team Agreement outreach slide deck and think about how to customize this for your audience and timing. Spend 20 minutes editing the deck for your audience
+This Open Science Team Agreement outreach slide deck is available for you to customize for your audience and timing. 
 
 Possible edits include:
 
@@ -96,13 +103,18 @@ Possible edits include:
 - Adding examples relevant to your audiences domain
 - Cutting or adding content
 
-[Customizable Slides](https://github.com/ucla-imls-open-sci/TeamAgreements/blob/main/episodes/files/OpenScienceTeamAgreementOutreachSlides.pptx)
+[Customizable Slides](https://github.com/ucla-imls-open-sci/TeamAgreements/blob/main/episodes/files/OpenScienceTeamAgreementOutreachSlides.pptx) - hint: after navigating to GitHub, click "view raw" to download the slides.
 
-[Customizable Handout](https://www.canva.com/design/DAFvMOmWIjY/Q5wOskLSu_KVMbaeZaeqyg/view?utm_content=DAFvMOmWIjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+[Customizable Handout](https://www.canva.com/design/DAFyYZOQUtE/h0Hs-cquFrp-IUycnLsEHw/view?utm_content=DAFyYZOQUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 
+::: challenge
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+## Your Next Step (5 min)
+
+Skim the materials above and jot down your ideas for implementing this. Share with the rest of the group.
+
+:::
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
