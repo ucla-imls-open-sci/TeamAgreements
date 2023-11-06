@@ -107,7 +107,7 @@ Possible edits include:
 
 [Customizable Handout](https://www.canva.com/design/DAFyYZOQUtE/h0Hs-cquFrp-IUycnLsEHw/view?utm_content=DAFyYZOQUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-
+ 
 ::: challenge
 
 ## Your Next Step (5 min)
