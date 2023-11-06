@@ -105,7 +105,7 @@ Possible edits include:
 
 [Customizable Slides](https://github.com/ucla-imls-open-sci/TeamAgreements/blob/main/episodes/files/OutreachSlidesOpenScienceTeamAgreement.pptx) - hint: after navigating to GitHub, click "view raw" to download the slides.
 
-[Customizable Handout](https://www.canva.com/design/DAFyYZOQUtE/h0Hs-cquFrp-IUycnLsEHw/view?utm_content=DAFyYZOQUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+[Customizable Handout](https://github.com/ucla-imls-open-sci/TeamAgreements/blob/main/episodes/files/Open%20Science%20Team%20Agreement%20Handout.pptx)
 
  
 ::: challenge
