@@ -73,6 +73,9 @@ Ideas for edits for new practices to introduce
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Showcasing the Team Agreement
+Researchers are encouraged to share their completed Open Science Team Agreement by uploading it to Zenodo and using the hashtag #openscienceteamagreement so that others can find it.
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
