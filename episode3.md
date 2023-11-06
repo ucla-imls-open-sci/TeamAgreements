@@ -103,7 +103,7 @@ Possible edits include:
 - Adding examples relevant to your audiences domain
 - Cutting or adding content
 
-[Customizable Slides](https://github.com/ucla-imls-open-sci/TeamAgreements/blob/main/episodes/files/OpenScienceTeamAgreementOutreachSlides.pptx) - hint: after navigating to GitHub, click "view raw" to download the slides.
+[Customizable Slides](https://github.com/ucla-imls-open-sci/TeamAgreements/blob/main/episodes/files/OutreachSlidesOpenScienceTeamAgreement.pptx) - hint: after navigating to GitHub, click "view raw" to download the slides.
 
 [Customizable Handout](https://www.canva.com/design/DAFyYZOQUtE/h0Hs-cquFrp-IUycnLsEHw/view?utm_content=DAFyYZOQUtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
